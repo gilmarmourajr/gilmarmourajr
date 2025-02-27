@@ -17,8 +17,6 @@
 </p>
 <br/>
 <br/>
-<br/>
-<br/>
 
 ```yaml
 nome: Gilmar Junior
