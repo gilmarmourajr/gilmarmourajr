@@ -21,6 +21,7 @@
 ```yaml
 nome: Gilmar Junior
 localização: Brasil
+línguas: ["Português", "Inglês", "Espanhol]
 ocupação: Estudando e desenvolvendo projetos
 
 educação:
