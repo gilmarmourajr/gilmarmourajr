@@ -53,6 +53,4 @@ hobbies: ["Leitura", "Programação", "Música"]
 <img src="https://camo.githubusercontent.com/f91287c9aac55623bc37ceb651ac35b7efb56e422019a3bb59328328a09edf9f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667" alt="Ubuntu" width="45" height="45"/>
 </p>
 
-![Snake animation](https://github.com/gilmarmourajr/gilmarmourajr/blob/output/github-contribution-grid-snake.svg)
-
 <img align="center" dir="auto" src="https://capsule-render.vercel.app/api?type=waving&height=100&textBg=false&fontColor=FFFFFF&fontAlign=50&animation=fadeIn&reversal=false&section=footer"/>
